@@ -34,12 +34,12 @@ Aqui estão algumas certificações e cursos que concluí ou estou cursando:
 
 | Repositório | Descrição |
 |-------------|-----------|
-| **[grc-notes](https://github.com/DarwinSecc/grc-notes)** | 📚 Anotações e materiais aprofundados sobre Governança, Riscos e Conformidade (GRC). |
-| **[malware-analysis-lab](https://github.com/DarwinSecc/malware-analysis-lab)** | 🦠 Laboratório focado em análise de malware e engenharia reversa. |
-| **[scripts-cyber](https://github.com/DarwinSecc/scripts-cyber)** | ⚙️ Coleção de scripts e automações para segurança cibernética. |
-| **[red-team](https://github.com/DarwinSecc/red-team)** | 🚨 Técnicas e práticas ofensivas para simulações de ataques. |
-| **[blue-team](https://github.com/DarwinSecc/blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento de redes. |
-| **[ctf-writeups](https://github.com/DarwinSecc/ctf-writeups)** | 🏆 Documentação e soluções para desafios Capture The Flag. |
+| **[grc-notes](https://github.com/DarwinRamael/grc-notes)** | 📚 Anotações e materiais aprofundados sobre Governança, Riscos e Conformidade (GRC). |
+| **[malware-analysis-lab](https://github.com/DarwinRamael/malware-analysis-lab)** | 🦠 Laboratório focado em análise de malware e engenharia reversa. |
+| **[scripts-cyber](https://github.com/DarwinRamael/scripts-cyber)** | ⚙️ Coleção de scripts e automações para segurança cibernética. |
+| **[red-team](https://github.com/DarwinRamael/red-team)** | 🚨 Técnicas e práticas ofensivas para simulações de ataques. |
+| **[blue-team](https://github.com/DarwinRamael/blue-team)** | 🛡️ Estratégias e ferramentas para defesa e monitoramento de redes. |
+| **[ctf-writeups](https://github.com/DarwinRamael/ctf-writeups)** | 🏆 Documentação e soluções para desafios Capture The Flag. |
 
 ---
 
