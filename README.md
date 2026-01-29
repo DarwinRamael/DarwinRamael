@@ -8,12 +8,12 @@
 ## 🎯 Objetivo do Perfil  
 Este perfil tem como propósito demonstrar minhas habilidades técnicas e práticas através de projetos reais e laboratórios simulados nas áreas de:
 
-- 🔹 Segurança ofensiva (Red Team)  
-- 🔹 Segurança defensiva (Blue Team)  
-- 🔹 Análise de malware  
-- 🔹 Governança, Risco e Conformidade (GRC)  
-- 🔹 Resolução de desafios Capture The Flag (CTF)  
-- 🔹 Automação com scripts e ferramentas
+ 🔹 Segurança ofensiva (Red Team)  
+ 🔹 Segurança defensiva (Blue Team)  
+ 🔹 Análise de malware  
+ 🔹 Governança, Risco e Conformidade (GRC)  
+ 🔹 Resolução de desafios Capture The Flag (CTF)  
+ 🔹 Automação com scripts e ferramentas
 
 ---
 
