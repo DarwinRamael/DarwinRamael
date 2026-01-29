@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 # Olá, eu sou Darwin!  
-**[Programador | Estudante de Cibersegurança | Técnico de TI](https://www.linkedin.com/in/tecdarwin/)**
+**Analista de Infraestrutura | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
 ---
 ## 🎯 Objetivo do Perfil  
