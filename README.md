@@ -1,9 +1,8 @@
 # 👩🏻‍💻 Darwin Ramael
 
 **`Desenvolvedora FullStack`**
-
-# Olá, eu sou Darwin!  
-**Analista de Infraestrutura | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
+ 
+**[Analista de Infraestrutura | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
 ---
 ## 🎯 Objetivo do Perfil  
