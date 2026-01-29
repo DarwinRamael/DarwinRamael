@@ -1,6 +1,8 @@
 # 👩🏻‍💻 Darwin Ramael
 
-**`Estudante de Cibersegurança`**
+**`Cybersecurity Analist`**
+
+Me chamo Darwin Ramael Trindade, tenho 24 anos e sou de Santa Catarina. Formado em Gestão de TI, e Pós-Graduado em Segurança da Informação. Atualmente estudando mais profundamente cibersegurança e programação.
  
 **[Analista de Infraestrutura | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
