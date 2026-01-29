@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Darwin Ramael
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Cibersegurança`**
  
 **[Analista de Infraestrutura | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
