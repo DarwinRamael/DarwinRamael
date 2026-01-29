@@ -90,8 +90,6 @@ Assim, qualquer profissional ou recrutador consegue avaliar rapidamente meu trab
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-/>
-
 <img 
     align="left" 
     alt="PHP" 
