@@ -53,12 +53,6 @@ Cada projeto contém documentação clara e detalhada para facilitar a compreens
 Assim, qualquer profissional ou recrutador consegue avaliar rapidamente meu trabalho.
 
 ---
-
-## 🚀 Em constante evolução  
-Este perfil está sempre em atualização com novos projetos, laboratórios e conteúdos, acompanhando meu crescimento profissional e estudos contínuos em cibersegurança.
-
-> 💡 Meu compromisso é manter este portfólio sempre vivo e relevante, refletindo tanto minhas conquistas quanto meu aprendizado contínuo.
-
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tecdarwin)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github)](https://github.com/DarwinSecc)
