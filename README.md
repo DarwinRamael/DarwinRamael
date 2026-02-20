@@ -27,7 +27,7 @@ Aqui estão algumas certificações e cursos que concluí ou estou cursando:
 - [Certified Ethical Hacker (CEH)](https://www.credly.com/badges/cbb4fc54-2f6e-47a6-98f5-3600fbc3bf1e/linked_in_profile)  
 - [Fortinet Technical Introduction to Cybersecurity 2.0](https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity)  
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/P2AU8PYAOUCE)
-- [Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst)  
+- [Microsoft Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/9Q7SAKSLGEH6)  
 
 ---
 
