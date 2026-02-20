@@ -20,7 +20,7 @@ Este perfil tem como propósito demonstrar minhas habilidades técnicas e práti
 ---
 
 
-## ✅ Certificações  
+## ✅ Cursos, Treinamentos e Certificações  
 Aqui estão algumas certificações e cursos que concluí ou estou cursando:
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/864JLK1NNPV3)  
