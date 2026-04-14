@@ -4,7 +4,7 @@
 
 Me chamo Darwin Ramael, tenho 24 anos e sou de Santa Catarina. Formado em Gestão de TI, e Pós-Graduado em Segurança da Informação. Atualmente estudando mais profundamente cibersegurança e programação.
  
-**[Suporte Técnico | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
+**[Segurança da Informação | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
 ---
 ## 🎯 Objetivo do Perfil  
