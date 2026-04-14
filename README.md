@@ -56,9 +56,6 @@ Cada projeto contém documentação clara e detalhada para facilitar a compreens
 Assim, qualquer profissional ou recrutador consegue avaliar rapidamente meu trabalho.
 
 ---
----
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
