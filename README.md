@@ -2,7 +2,7 @@
 
 **`Cybersecurity Analyst`**
 
-Me chamo Darwin Ramael, tenho 24 anos e sou de Santa Catarina. Formado em Gestão de TI, e Pós-Graduado em Segurança da Informação. Atualmente estudando mais profundamente cibersegurança e programação.
+Me chamo Darwin Ramael, e sou de Santa Catarina. Formado em Gestão de TI, e Pós-Graduado em Segurança da Informação. Atualmente estudando mais profundamente cibersegurança e programação.
  
 **[Segurança da Informação | Cybersecurity | Redes & Firewall](https://www.linkedin.com/in/tecdarwin/)**
 
